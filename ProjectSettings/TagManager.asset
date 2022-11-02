@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plane
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4159783263
+    locked: 0
+  - name: Plane
+    uniqueID: 3987467857
+    locked: 0
+  - name: Player_Trail
+    uniqueID: 794200415
+    locked: 0
+  - name: Player
+    uniqueID: 3224051755
+    locked: 0
+  - name: Canvas
+    uniqueID: 2203741715
+    locked: 0
+  - name: Png_Effects
+    uniqueID: 3537529553
+    locked: 0
